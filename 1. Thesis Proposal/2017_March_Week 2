@@ -2,10 +2,10 @@
 write the first draft of the bachelor thesis (.hwp file in the directory 1.Thesis Proposal)
 
 [Things I've done]
-1. Chose the thesis topic
+1. Chose thesis topic
   Low-Power Implementation of SVMs through reducing training data in IoT environment
 
-2. Researched the following thesis papers related to the thesis topic
+2. Researched the following research papers related to the thesis topic
   a. Challenges and Opportunities in Edge Computing
   b. Low-Power and Low-Cost Implementation of SVMs for Smart Sensors
   c. A Study on Low Power Design of SVM Algorithm for IoT Environment
@@ -36,7 +36,7 @@ write the first draft of the bachelor thesis (.hwp file in the directory 1.Thesi
       - Micro operating systems and virtualization
       - Industry-academic collaborations
   
-4. Drafted the outline of the thesis
+4. Drafted outline of the thesis
   a. Challenges of Machine learning in Cloud Computing
   b. Emergence of Edge Computing and opportunities for machine learning in the edge nodes and devices
   c. Suggestion reducing training data to employ SVM algorithm in IoT nodes
