@@ -7,7 +7,13 @@ Study references of lightweight libraries and algorithms in research paper "Chal
   
 2. Summarized the key ideas in the paper
   a. Real-time Edge Analytics for Cyber Physical Systems using Compression Rates
-
+    • Cyber-Physical Systems(CPS) push processing to the edge for minimizing the latency between decision making and 
+      control message reception
+    • CPS is limited by the battery-powered, low-resourced devices
+    • Proposed a self-adaptive scheme reducing the amount of resources required to store high sample rate data at the 
+      edge and at the same time carries out initial data analytics
+    • Algorithm reduces computation by 98% and data volumes by 55% while requiring only 11KB of memory at runtime
+      and supports self-tuning and automatic reconfiguration as well
 
 [Things to do]
 1. research further on papers discussing machine learning in wireless sensor networks
