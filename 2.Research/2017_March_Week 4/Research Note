@@ -1,8 +1,8 @@
-#Objective
+[Objective]
 Study references of lightweight libraries and algorithms in research paper "Challenges and Opportunities in Edge computing"
 
 [Things I've done]
-1. Researched the following research paper
+1. Researched the following paper
   a. Real-time Edge Analytics for Cyber Physical Systems using Compression Rates
   
 2. Summarized the key ideas in the paper
@@ -16,5 +16,5 @@ Study references of lightweight libraries and algorithms in research paper "Chal
       and supports self-tuning and automatic reconfiguration as well
 
 [Things to do]
-1. research further on papers discussing machine learning in wireless sensor networks
-2. research further on ideas that can reduce the energy cost without sacrificing the precision of data in IoT environment
+1. Research further on papers discussing machine learning in wireless sensor networks
+2. 
