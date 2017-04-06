@@ -16,8 +16,8 @@ Study references of lightweight libraries and algorithms in research paper "Chal
                      high energy consumption
     • Aim is to monitor and optimally control the water network in real-time by increasing the decision-making capacities 
       of energy-constrained sensor nodes and reducing the energy cost without sacrificing the precision of the data
-    • Scheme using the compression rate to detect anomalies and outliers directly on the sensor node instead of compressing 
-      raw sensor data and sending it to servers (without having to communicate via servers)
+    • Scheme using the compression rate to detect anomalies and outliers directly on the sensor node, without having to 
+      communicate via servers, instead of compressing raw sensor data and sending it to servers 
       - derived from the correlation between compression rate and data value fluctuation
       - a faster, more lightweight method
       - provides early indications of an issue which can be fed directly into the control function 
