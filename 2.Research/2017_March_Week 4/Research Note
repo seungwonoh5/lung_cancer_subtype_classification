@@ -3,18 +3,27 @@ Study references of lightweight libraries and algorithms in research paper "Chal
 
 [Things I've done]
 1. Researched the following paper
-  a. Real-time Edge Analytics for Cyber Physical Systems using Compression Rates
+  a. Real-time Edge Analytics for Cyber-Physical Systems using Compression Rates
   
 2. Summarized the key ideas in the paper
-  a. Real-time Edge Analytics for Cyber Physical Systems using Compression Rates
-    • Cyber-Physical Systems(CPS) push processing to the edge for minimizing the latency between decision making and 
-      control message reception
-    • CPS is limited by the battery-powered, low-resourced devices
-    • Proposed a self-adaptive scheme reducing the amount of resources required to store high sample rate data at the 
-      edge and at the same time carries out initial data analytics
-    • Algorithm reduces computation by 98% and data volumes by 55% while requiring only 11KB of memory at runtime
-      and supports self-tuning and automatic reconfiguration as well
+  a. Real-time Edge Analytics for Cyber-Physical Systems using Compression Rates
+    • Movement in Cyber-Physical Systems(CPS) : push data processing to the edge for minimizing the latency between decision 
+      making and control message reception
+    • Limitations of CPS : battery-powered, low-resourced devices 
+    • Drawbacks of telemetry units or Wireless Sensor Network(WSN) approaches in Water Distribution Network(WDN)
+      - Drawback 1 : unrealistic real-time decision-making for control since analysis takes place in base stations/servers
+      - Drawback 2 : amount of data that can be sensed and relayed for analysis in sensor nodes are bounded due to 
+                     high energy consumption
+    • Aim is to make CPS monitor and optimally control the water network in real-time by increasing the decision-making 
+      capacities of energy-constrained sensor nodes and reducing the energy cost without sacrificing the precision of the data
+    • Scheme using the compression rate to detect anomalies and outliers directly on the sensor node instead of compressing 
+      raw sensor data and sending it to servers (without having to communicate via servers)
+      - derived from the correlation between compression rate and data value fluctuation
+      - a faster, more lightweight method
+      - provides early indications of an issue which can be fed directly into the control function 
+    • Proposed algorithm reduces computation by 98%, data volumes by 55%, while requiring only 11KB of memory at runtime 
+      and supports self-tuning and automatic re-configuration as well
 
 [Things to do]
-1. Research further on papers discussing machine learning in wireless sensor networks
-2. 
+1. Research further on papers discussing machine learning in Wireless Sensor Network(WSN)
+2. Research on papers about Support Vector Machine(SVM) applied to Internet of Things(IoT)
