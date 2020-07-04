@@ -15,3 +15,17 @@ for more details on this work.
 - demo.ipynb
 - random_forest.ipynb
 
+## Classification Steps
+
+## Requirements
+Python 3.4, TensorFlow 1.3, Keras 2.0.8 and other common packages listed in requirements.txt.
+
+## Contributing
+
+Contributions to this repository are welcome. Examples of things you can contribute:
+
+Speed Improvements. Like re-writing some Python code in TensorFlow or Cython.
+Training on other datasets.
+Accuracy Improvements.
+Visualizations and examples.
+You can also join our team and help us build even more projects like this one.
