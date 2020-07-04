@@ -11,7 +11,7 @@ The repository includes:
 Check out my bachelor's thesis: <b>Lung Cancer Subtype Deep Learning Classifier based on 2D Joint Histograms of multi-modal CTs</b>
 for more details on this work.
 
-# Getting Started
+## Getting Started
 - demo.ipynb
 - random_forest.ipynb
 
