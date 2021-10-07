@@ -1,8 +1,12 @@
 # Lung Cancer Subtype Classification using CNNs
 
-## Getting Started
-- demo.ipynb
-- random_forest.ipynb
+
+## Installation
+
+## Dependencies
+- Python 3.4
+- TensorFlow 1.3
+- Keras 2.0.8
 
 ## What's Included
 - Python source code of cancer subtype classification pipeline
@@ -11,12 +15,9 @@
 - visualize the detection pipeline at every step
 - Example of training on your own dataset
 
-## Dependencies
-- Python 3.4
-- TensorFlow 1.3
-- Keras 2.0.8
-
-## Usage
+## Getting Started
+- demo.ipynb
+- random_forest.ipynb
 
 ## Results
 
