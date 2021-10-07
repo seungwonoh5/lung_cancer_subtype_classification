@@ -4,7 +4,7 @@ false positives, which leads to unnecessary treatments and examinations. In this
 subtype using deep learning models when input 2D joint histogram preprocessed from 3D CT scan images of patients.
 With a simple Convolutional Neural Network architecture, we showed an improvement in correctly classifying both 1st
 and 2nd dominant subtypes of lung cancer compared with a baseline method (which predicts with the average of training
-labels).
+labels). This paper was accepted to IEIE 2018, a local conference in South Korea.
 
 ## Installation
 
